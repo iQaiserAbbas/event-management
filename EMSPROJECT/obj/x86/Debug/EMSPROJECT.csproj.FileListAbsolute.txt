@@ -1,0 +1,135 @@
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\bin\Debug\EMSPROJECT.exe
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\bin\Debug\EMSPROJECT.pdb
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.deletecustomer.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Deletevenue.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Editcustomer.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.editvenue.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Add_Venue.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Addcustomer.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Main_form.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Properties.Resources.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.csproj.GenerateResource.Cache
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.exe
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.pdb
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\bin\Debug\EMSPROJECT.exe.config
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.bookPackage.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\bin\Debug\EMSDB.accdb
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.adminLogin.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.customerStatus.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.venueStatus.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.PaymentForm.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.bookingStatus.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.cancelBooking.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.editBooking.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.advancePayment.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.paymentReceivable1.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.paymentProcessing.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.AddAdminForm.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.DeleteAdmnForm.resources
+C:\Users\Sanket\Desktop\Practice\C# practice\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.customerId.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\bin\Debug\EMSPROJECT.exe.config
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.exe
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.pdb
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\bin\Debug\EMSDB.accdb
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\bin\Debug\EMSPROJECT.exe
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\bin\Debug\EMSPROJECT.pdb
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.csprojResolveAssemblyReference.cache
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.AddAdminForm.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.advancePayment.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.bookingStatus.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.bookPackage.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.cancelBooking.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.customerId.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.customerStatus.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.DeleteAdmnForm.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.deletecustomer.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Deletevenue.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.editBooking.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Editcustomer.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.editvenue.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Add_Venue.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Addcustomer.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Main_form.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.PaymentForm.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.paymentProcessing.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.paymentReceivable1.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Properties.Resources.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.adminLogin.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.venueStatus.resources
+E:\Codding 2\Portfolio\EMSPROJECT\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.csproj.GenerateResource.Cache
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.csprojAssemblyReference.cache
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.AddAdminForm.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.advancePayment.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.bookingStatus.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.bookPackage.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.cancelBooking.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.customerId.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.customerStatus.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.DeleteAdmnForm.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.deletecustomer.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Deletevenue.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.editBooking.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Editcustomer.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.editvenue.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Add_Venue.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Addcustomer.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Main_form.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.PaymentForm.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.paymentProcessing.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.paymentReceivable1.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Properties.Resources.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.adminLogin.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.venueStatus.resources
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.csproj.GenerateResource.cache
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.csproj.CoreCompileInputs.cache
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.exe
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.pdb
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\bin\Debug\EMSDB.accdb
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\bin\Debug\EMSPROJECT.exe.config
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\bin\Debug\EMSPROJECT.exe
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\bin\Debug\EMSPROJECT.pdb
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\bin\Debug\EMSDBDataSet.Designer.cs.dll
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\bin\Debug\EMSDBDataSet1.Designer.cs.dll
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\bin\Debug\EMSDBDataSet2.Designer.cs.dll
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\Event-Management-System-master\Event-Management-System-master\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.csproj.CopyComplete
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\bin\Debug\EMSDB.accdb
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\bin\Debug\EMSPROJECT.exe.config
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\bin\Debug\EMSPROJECT.exe
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\bin\Debug\EMSPROJECT.pdb
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\bin\Debug\EMSDBDataSet1.Designer.cs.dll
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\bin\Debug\EMSDBDataSet2.Designer.cs.dll
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.csprojAssemblyReference.cache
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.AddAdminForm.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.advancePayment.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.bookingStatus.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.bookPackage.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.cancelBooking.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.customerId.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.customerStatus.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.DeleteAdmnForm.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.deletecustomer.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Deletevenue.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.editBooking.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Editcustomer.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.editvenue.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Add_Venue.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Addcustomer.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Main_form.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.PaymentForm.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.paymentProcessing.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.paymentReceivable1.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.Properties.Resources.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.adminLogin.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.venueStatus.resources
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.csproj.GenerateResource.cache
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.csproj.CopyComplete
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.exe
+C:\Users\iQais\Desktop\Project SC WORK\EMSPROJECT\EMSPROJECT\obj\x86\Debug\EMSPROJECT.pdb
